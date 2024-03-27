@@ -6,6 +6,11 @@ Wazuh is an open-source security monitoring platform used for threat detection, 
 ![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (7)](https://github.com/0xrajneesh/Wazuh-Home-Lab/assets/40385860/651c105c-0f5b-4eda-ac51-3b52e33b2374)
 
 This Home-Lab covers:
+- [Requirement](https://github.com/0xrajneesh/Wazuh-Home-Lab?tab=readme-ov-file#requirements)
+- [Lab Diagram](https://github.com/0xrajneesh/Wazuh-Home-Lab?tab=readme-ov-file#%EF%B8%8Flab-diagram)
+- [What will you learn?](https://github.com/0xrajneesh/Wazuh-Home-Lab?tab=readme-ov-file#what-will-you-learn)
+- [Setting up Wazuh Lab](https://github.com/0xrajneesh/Wazuh-Home-Lab?tab=readme-ov-file#-setting-up-wazuh-lab)
+- [Excercises](https://github.com/0xrajneesh/Wazuh-Home-Lab?tab=readme-ov-file#excercises)
 
 
 ## 🧮Requirements
