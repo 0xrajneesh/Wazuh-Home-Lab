@@ -3,6 +3,10 @@
 ## ℹ️Overview
 
 Wazuh is an open-source security monitoring platform used for threat detection, integrity monitoring, and incident response. Setting up a Wazuh home lab environment is an excellent way for SOC (Security Operations Center) analysts to gain hands-on experience in security monitoring, alerting, and response.  
+![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (7)](https://github.com/0xrajneesh/Wazuh-Home-Lab/assets/40385860/651c105c-0f5b-4eda-ac51-3b52e33b2374)
+
+This Home-Lab covers:
+
 
 ## 🧮Requirements
 
@@ -17,6 +21,22 @@ Wazuh is an open-source security monitoring platform used for threat detection, 
 ## 🖼️Lab Diagram
 
 ![Home-Lab (4)](https://github.com/0xrajneesh/Home-Lab/assets/40385860/a9d12473-c560-45b5-be95-e6d4dad597ec)
+
+
+## What will you learn?
+In the Wazuh Home-Lab, you'll gain hands-on experience in:
+
+- Threat detection for various cyber threats
+- Incident response to security breaches
+- System integrity monitoring
+- Behavior analysis for identifying anomalies
+- Setting up and configuring Wazuh agents
+- Analyzing and responding to failed SSH logins
+- Detecting unauthorized access to sensitive files
+- Monitoring and alerting on executable file modifications
+- Identifying anomalous network traffic patterns
+- Recognizing unusual account activities
+- Notifying and responding to security policy violations
 
 
 ## </> Setting up Wazuh Lab
